@@ -122,9 +122,10 @@ ul.top_menu {
 input[type="name"] ,input[type="text"] {
 	width:480px;
 }
-.radio{
-  display: flex;
+input[type="radio"]{
+  -webkit-appearance: checkbox;
 }
+
 
   
   
