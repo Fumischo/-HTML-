@@ -141,6 +141,10 @@ textarea{
   opacity: 0.6;
 }
 
+center {
+ height: 80px;
+ margin-left: 280px;
+}
 
 .contact-form{
   display: flex;
