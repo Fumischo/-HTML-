@@ -122,9 +122,11 @@ ul.top_menu {
 input[type="name"] ,input[type="text"] {
 	width:480px;
 }
-.checkbox{
+.radio{
   display: flex;
 }
+
+  
   
 textarea{
  width: 480px; 
